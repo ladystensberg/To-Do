@@ -1,0 +1,21 @@
+body {
+  margin: 20px;
+}
+
+img {
+  height: 12px;
+  width: 12px;
+  margin-left: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  margin-left: 20px;
+}
+
+li {
+  margin-bottom: 20px;
+}
